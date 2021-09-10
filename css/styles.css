@@ -2,8 +2,14 @@
     height: 0;
     overflow: hidden;
     transition: var(--transition);
+    font-size: 20px;
+}
+
+.links li {
+    border-style: solid;
 }
 
 .show-links {
     height: 10rem;
+    font-size: 20px;
 }
